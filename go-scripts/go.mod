@@ -1,4 +1,4 @@
-module PumpBot
+module github.com/FFFhhhaaa255/pumpfunsniper/go-scripts
 
 go 1.22.2
 
