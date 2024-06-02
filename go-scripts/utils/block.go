@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"PumpBot/global"
+	"github.com/FFFhhhaaa255/pumpfunsniper/go-scripts/global"
 	atomic_ "PumpBot/utils/atomic"
 	"context"
 	"encoding/json"
